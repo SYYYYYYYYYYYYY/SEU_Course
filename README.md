@@ -1,2 +1,2 @@
 # SEU_SY
-SEU-Monash 课程资料
+SEU-Monash 研究生课程资料
